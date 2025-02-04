@@ -39,7 +39,7 @@ body{
 
 
 #box1:hover{
-    background-color: rgb(255, 0, 0);
+    background-color: red;
 }
 #box2:hover{
     background-color: green;
@@ -64,3 +64,15 @@ body{
     rotate: -45deg;
 }
 
+#hedding{
+    align-items: center;
+    background-color: burlywood;
+    text-align: center;
+    border: 5px;
+    border-style: double;
+}
+
+#hedding:hover{
+    background-color: rgb(223, 121, 246);
+    
+}
